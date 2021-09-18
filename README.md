@@ -1,5 +1,5 @@
 # ProvaPythonDjango
 
-Branch base prima app
+Branch base seconda app
 
 Modifica
